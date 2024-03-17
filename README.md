@@ -1,5 +1,5 @@
 # Tableau Data Visualization Projects 💹 
-##Global Tech Experience Internship - Tableau Analysis
+## Global Tech Experience Internship - Tableau Analysis
 
 **1. UNESCO Dataset:✅** 
 In this project for Tableau, I analyzed a dataset containing UNESCO's world heritage sites, categorizing them as cultural, natural, or mixed. Utilizing Tableau, I visualized the data findings across multiple sheets. 
