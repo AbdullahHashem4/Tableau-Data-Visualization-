@@ -26,7 +26,7 @@ In this project focused on basic visualizations using Tableau, I worked with thr
 - Sheet 5 featured a sorted bar chart revealing the three video game genres with the highest total global sales. 
 -Additionally, LevelUp tasks on Sheets 1 and 2 explored alternative visualization techniques for height data, offering insights into countries with taller or shorter women compared to the global average.
 
-**4.UFO Sightings Dataset:✅**
+**4. UFO Sightings Dataset:✅**
 In this project I focused on calculated fields within Tableau, I worked with two datasets: one detailing UFO sightings by state and another by country, aiming to discern patterns in UFO encounters, including timing, duration, and shapes.
 - In the UFOSightingsByState sheet 1, I extracted state codes from the Location column and capitalized them to create a custom calculated field, subsequently visualizing the number of UFO sightings by state in a descending bar chart, with the top three states being answered in the Questions sheet.
 - Moving to the NumberSightingsPerCountry sheet 2, I extracted country codes and capitalized them, then presented a text table displaying the total sightings per country, with the number of sightings in the United States answered in the Questions sheet.
