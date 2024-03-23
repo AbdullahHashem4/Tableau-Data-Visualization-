@@ -34,3 +34,11 @@ In this project I focused on calculated fields within Tableau, I worked with two
 - Shifting to the UFOSightingsByShape sheet 4, I capitalized UFO shape descriptions and visualized the most commonly encountered shapes in a descending bar chart, with the most common shape answered in the Questions sheet.
 - Finally, in the UFOSightingsByHour sheet 5, I visualized the number of UFO sightings by each hour of the day, with the most popular sighting time answered in the Questions sheet. 
 - For the LevelUp task, I converted descriptions to lowercase, identified prevalent UFO colors through conditional statements, and created a bar chart showcasing the most common UFO colors, with the dominant color answered in the Questions sheet.
+
+**5. Super Bowl Dataset✅**
+In this project I focused on Super Bowl analysis, I tackled questions surrounding the annual American football spectacle using three datasets: superbowl_scores, tv_ratings, and halftime_shows.
+- First, I joined these datasets, inspecting columns to determine the appropriate fields for joining. 
+- Next, I created a calculated field called Year to compute the year of each Super Bowl game, enabling visualization of the average household rating over time through a line chart.
+- Subsequently, I categorized Super Bowl games as nail-biters, close games, or blowouts by creating calculated fields based on score differences, and visualized the distribution of game types through a bar chart.
+- Additionally, I analyzed trends in advertising effectiveness by plotting the average ad cost over the years and examining the relationship between ad cost and household ratings.
+- For the LevelUp task, I visualized the popularity of halftime musical acts and determined the most common game types among top-viewed performances, as well as the average viewership by game result type. These analyses provided insights into Super Bowl viewership trends and the effectiveness of advertising strategies over time.
