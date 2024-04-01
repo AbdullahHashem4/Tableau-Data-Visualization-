@@ -42,3 +42,23 @@ In this project I focused on Super Bowl analysis, I tackled questions surroundin
 - Subsequently, I categorized Super Bowl games as nail-biters, close games, or blowouts by creating calculated fields based on score differences, and visualized the distribution of game types through a bar chart.
 - Additionally, I analyzed trends in advertising effectiveness by plotting the average ad cost over the years and examining the relationship between ad cost and household ratings.
 - For the LevelUp task, I visualized the popularity of halftime musical acts and determined the most common game types among top-viewed performances, as well as the average viewership by game result type. These analyses provided insights into Super Bowl viewership trends and the effectiveness of advertising strategies over time.
+
+**6. NYC Green Taxi Dataset✅**
+In this  project centered on New York City taxi data analysis, I delved into various aspects of taxi usage and costs, utilizing calculated fields to enhance the dataset's usability. 
+- Beginning with mapping numeric rate codes to interpretable strings, I created a calculated field named Rate Type.
+- Following this, I visualized the distribution of fares using a histogram, describing its shape and identifying common fare ranges.
+- Integrating Rate Types as color encoding, I discerned the most common type of trip and investigated anomalies, particularly a peak in fares around $52-$54, potentially linked to trips to JFK airport.
+- Confirming these observations through a sorted bar chart of trip counts per Rate Type, I then examined the average trip distance for each Rate Type, identifying categories resulting in longer trips on average.
+- Further analysis focused on tipping trends, where I calculated Tip Per Distance to assess tipping amounts per mile traveled and identified which trip types garnered higher tips.
+- For the LevelUp task, I expanded analysis to include histograms of tip-subtotal ratios across all trips, examining payment types and common tip percentages relative to fares.
+
+**7.  BillBoard Spotify Hits Dataset✅**
+In this project milestone for Tableau, I focused on creating interactive visualizations using parameters and explored two datasets: BillboardHot100 and Spotify songAttributes. 
+- In Part 1, I examined the relative popularity of pop and rock genres over time from the BillboardHot100 dataset. I created calculated fields to determine the proportion of pop and rock songs and visualized their trends with a line chart on the Rock and Pop Popularity Sheet. Analyzing the patterns and trends in listener preference for these genres over two decades, I provided insights in the Questions sheet.
+- In Part 2, I developed an interactive chart allowing users to select a genre and view its popularity over time, using the SelectGenre parameter to dynamically display the selected genre's proportion in the Top 100. Additionally, I ensured chart presentation by revising the vertical axis to display percentages and making the chart title dynamic.
+- For the LevelUp task, I explored relationships between pairs of musical properties using parameters like SelectAudioX and SelectAudioY. By creating scatter plots on Sheet 3 (Audio Features) and converting them into density maps, I visually inspected correlations between attributes like Valence and danceability, providing insights into the strength of these relationships.
+
+
+
+
+
